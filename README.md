@@ -1,8 +1,10 @@
 # Olá, eu sou o Arthur Meira! 🛠️
 
-Engenheiro Eletrônico em formação pela **Universidade de Brasília (UnB)** e atuo profissionalmente com desenvolvimento de **Automação Residencial** na **MEIRA AUTOMAÇÃO RESIDENCIAL E COMERCIAL**.
+Engenheiro Eletrônico em formação pela **Universidade de Brasília (UnB)** e fundador da **MEIRA Automação Residencial e Comercial**.
 
-Meu foco é transformar hardware em soluções inteligentes.
+Atuo profissionalmente no desenvolvimento de soluções em **automação residencial e comercial**, integrando hardware e software para criar ambientes inteligentes, modernos e eficientes.
+
+Meu foco é transformar hardware em soluções práticas que aumentam o conforto, a segurança e a eficiência no dia a dia.
 
 ---
 
@@ -30,9 +32,25 @@ Aqui estão as ferramentas que utilizo. Clique nos botões para ver os códigos:
 
 ---
 
-### 📫 Contato Profissional
+### 🏢 Sobre a MEIRA
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurenriquemeira@gmail.com)
+A **MEIRA Automação Residencial e Comercial** desenvolve soluções inteligentes para casas e empresas, oferecendo:
+
+- Automação de iluminação  
+- Controle de climatização  
+- Sistemas de segurança  
+- Integração de dispositivos inteligentes  
+
+Nosso objetivo é tornar a automação acessível, eficiente e funcional, levando tecnologia de ponta para ambientes reais.
+
+🌐 https://www.meirasmarthome.com.br/
 
 ---
-*“A engenharia é a arte de organizar a complexidade.”*
+
+### 📫 Contato Profissional
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur@meirasmarthome.com.br)
+
+---
+
+*"A engenharia é a arte de organizar a complexidade."*
