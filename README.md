@@ -1,8 +1,8 @@
 # Olá, eu sou o Arthur Meira! 🛠️
 
-Engenheiro Eletrônico em formação pela **Universidade de Brasília (UnB)** e atuo profissionalmente com desenvolvimento de **Automação Residencial** na **I.ALL**.
+Engenheiro Eletrônico em formação pela **Universidade de Brasília (UnB)** e atuo profissionalmente com desenvolvimento de **Automação Residencial** na **MEIRA AUTOMAÇÃO RESIDENCIAL E COMERCIAL**.
 
-Meu foco é transformar hardware em soluções inteligentes através de código eficiente.
+Meu foco é transformar hardware em soluções inteligentes.
 
 ---
 
