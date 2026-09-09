@@ -23,6 +23,8 @@ Aqui estão as ferramentas que utilizo. Clique nos botões para ver os códigos:
 
 ### 📂 Navegação Rápida
 
+* 🚨 **[SDAI Sarah](https://github.com/arthur-meira-eng/SDAI-Sarah)**
+    * Sistema de Detecção e Alarme de Incêndio inteligente e integrado.
 * 🖥️ **[Programação e Algoritmos](https://github.com/arthur-meira-eng/Engenharia/tree/main/Programação)**
     * Estudos avançados em C e C++ (Módulos Acadêmicos).
 * 🤖 **[Sistemas Embarcados](https://github.com/arthur-meira-eng/Engenharia/tree/main/Sistemas%20Embarcados)**
